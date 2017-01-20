@@ -1,0 +1,16 @@
+.white{
+    color: white !important;
+}
+
+#catpic{
+    width: 100%;
+}
+
+.feat_info{
+    text-align: center;
+}
+
+.info_title{
+    text-align: center;
+    font-weight: bold;
+}
